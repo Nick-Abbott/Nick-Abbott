@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Nick 👋  
 
-<!--
-**Nick-Abbott/Nick-Abbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems engineer & platform architect.**  
+I design engineering systems end-to-end — backend, infra, developer platforms — with one goal:  
+make engineers 10× more effective *and make the work a joy*.  
 
-Here are some ideas to get you started:
+## 🚀 Things I’ve Built
+- [Mosaic](https://github.com/Nick-Abbott/Mosaic) – Kotlin framework for composable backend orchestration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ Writing
+- [Intro to Mosaic](https://medium.com/@nick.abbott67/mosaic-a-new-way-to-compose-backend-data-in-kotlin-3da78ec0a684)
+
+## 🌐 Links
+- [LinkedIn](https://www.linkedin.com/in/nicholas-abbott)  
+---
