@@ -8,9 +8,9 @@
 
 Mosaic is my Kotlin framework for composable backend data orchestration: **think from the response up, not the database down.** Reusable Tiles describe pieces of a response and compose the data they need, while the framework provides concurrency, request-scoped deduplication, and batching behind that composition model. I built it to keep orchestration concerns from being reimplemented in every endpoint, so response logic stays understandable and individual pieces can be tested in isolation.
 
-### Chirli
+### [Chirli](https://chirli.com)
 
-I'm building Chirli, a **private social discovery product built around standing intent**. People describe what they want to do, learn, offer, find, or collaborate on, and the system continuously looks for complementary intentions. The idea is that discovery should keep working over time, without requiring people to search at the same moment.
+I'm building Chirli, a **social discovery product built around standing intent**. People describe what they want to do, learn, offer, find, or collaborate on, and the system continuously looks for complementary intentions. The idea is that discovery should keep working over time, without requiring people to search at the same moment.
 
 The work spans semantic retrieval and matching, model experimentation, product design, and a Kotlin/React stack. I'm building it end-to-end, including the engineering infrastructure needed to develop and operate it.
 
