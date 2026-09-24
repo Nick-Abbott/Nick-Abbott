@@ -41,10 +41,10 @@ At **American Express**, I've spent my career building both high-scale customer-
 
 Selected posts on [LinkedIn](https://www.linkedin.com/in/nicholas-abbott):
 
-- **Maybe Java Was Right All Along:** explicitness, clarity, and optimizing software for maintenance.
-- **A monorepo won't fix your code:** the organizational reasons for shared repositories, alongside their technical costs.
-- **Simplicity is overrated:** absorbing complexity inside a platform so its consumers don't have to.
-- **Engineers crave rules:** opinionated tools, strong defaults, and predictability.
+- **[Maybe Java Was Right All Along](https://www.linkedin.com/posts/nicholas-abbott_maybe-java-was-right-all-along-for-decades-activity-7377515965531488256-sWmX):** explicitness, clarity, and optimizing software for maintenance.
+- **[A monorepo won't fix your code](https://www.linkedin.com/posts/nicholas-abbott_a-monorepo-wont-fix-your-code-monorepos-activity-7387645434342772736-okMN):** the organizational reasons for shared repositories, alongside their technical costs.
+- **[Simplicity is overrated](https://www.linkedin.com/posts/nicholas-abbott_simplicity-is-overrated-we-want-code-that-activity-7379568462634876928-IyXM):** absorbing complexity inside a platform so its consumers don't have to.
+- **[Engineers crave rules](https://www.linkedin.com/posts/nicholas-abbott_engineers-crave-rules-we-like-to-tell-ourselves-activity-7382580704955731968-vRML):** opinionated tools, strong defaults, and predictability.
 
 ## Elsewhere
 
